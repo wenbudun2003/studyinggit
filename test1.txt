@@ -1,2 +1,2 @@
-I would like to use git.
+I would like not to use git.
 Git is a free tool
